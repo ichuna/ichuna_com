@@ -10,7 +10,7 @@ timezone:
 
 <div style ="float:right">
 
-![出纳专家--始于2001年](./small_zhangben.png )
+![出纳专家--始于2001年](small_zhangben.png )
 
 
 </div>
