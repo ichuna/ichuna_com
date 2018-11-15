@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+Allow: /_posts/
+Allow: /about/
+Allow: /case/
+Allow: /demo/
+Allow: /download/
+Allow: /home/
+Allow: /overview/
+Allow: /support/
+Allow: /update/
+Allow: /categories/
+Allow: /tags/
+
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://ichuna.com/sitemap.xml
+Sitemap: https://ichuna.com/baidusitemap.xml
