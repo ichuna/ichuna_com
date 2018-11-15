@@ -9,14 +9,14 @@ timezone:
 ---
 
 <div style ="float:right">
-
-![出纳专家--始于2001年](small_zhangben.png )
-
-
+![《出纳专家》有时光机的出纳软件--始于2001年](small_zhangben.png )
 </div>
 
 《出纳专家》全真帐页化操作与输出的出纳软件，实用又简单。让你工作事半功倍。
 
+* **时光机**，时光机，让您永久告别数据丢失、损坏！
+* **在线升级**，自动升级检测，时刻都是最新的系统。
+---
 * **真帐页**，如纸质帐本的软件界面
 * **真好用**，使用象在帐页上记帐一样简单
 * **真直观**，自然年月日分层结构体系
@@ -24,6 +24,7 @@ timezone:
 
 <div style ="clear:both" align="center">
         <a href="http://down.ichuna.com/cnzjhh_setup.exe" alt="" title="立即下载《出纳专家2018》" id="download">立即下载</a>
+        <p>支持Windows 7及以上系统</p>
 </div>
 
 ---

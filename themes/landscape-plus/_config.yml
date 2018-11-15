@@ -2,7 +2,10 @@
 menu:
   首页: /home
   更新: /update
+  界面: /overview
+  演示: /tags/演示/
   案例: /case
+  下载: /download
   文档: /archives
   关于: /about
 rss: /atom.xml
@@ -24,8 +27,8 @@ widgets:
 
 # Links
 links:
-  #出纳软件: http://www.ichuna.com
-  #支票打印: http://www.myqzz.com
+  出纳软件: http://www.ichuna.com
+  支票打印: http://www.myqzz.com
 
 # Miscellaneous
 google_analytics:
@@ -34,6 +37,12 @@ twitter:
 google_plus:
 fb_admins: 
 fb_app_id:
+
+sitemap:
+  path: sitemap.xml
+
+baidusitemap:
+  path: baidusitemap.xml
 
 # Duoshuo
 duoshuo_shortname: 
