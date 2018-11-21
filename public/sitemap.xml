@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ichuna.com/about/index.html</loc>
+    
+    <lastmod>2018-11-21T00:26:51.671Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://ichuna.com/demo_10/</loc>
     
     <lastmod>2018-11-15T07:55:46.072Z</lastmod>
@@ -124,13 +131,6 @@
     <loc>http://ichuna.com/download/index.html</loc>
     
     <lastmod>2018-07-25T10:22:31.213Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ichuna.com/about/index.html</loc>
-    
-    <lastmod>2018-07-20T15:04:18.333Z</lastmod>
     
   </url>
   
