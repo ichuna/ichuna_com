@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ichuna.com/home/index.html</loc>
+    
+    <lastmod>2019-03-29T14:25:07.237Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/overview/index.html</loc>
+    
+    <lastmod>2019-03-29T14:14:28.083Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://ichuna.com/download/index.html</loc>
     
-    <lastmod>2019-01-31T02:35:01.044Z</lastmod>
+    <lastmod>2019-03-29T13:25:43.733Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://ichuna.com/update/index.html</loc>
     
-    <lastmod>2019-01-31T02:30:07.781Z</lastmod>
+    <lastmod>2019-03-29T13:25:24.858Z</lastmod>
     
   </url>
   
@@ -47,13 +61,6 @@
     <loc>http://ichuna.com/demo_4/</loc>
     
     <lastmod>2018-12-25T03:04:48.659Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ichuna.com/home/index.html</loc>
-    
-    <lastmod>2018-12-25T03:04:46.483Z</lastmod>
     
   </url>
   
@@ -145,13 +152,6 @@
     <loc>http://ichuna.com/support/index.html</loc>
     
     <lastmod>2018-08-01T10:19:28.627Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ichuna.com/overview/index.html</loc>
-    
-    <lastmod>2018-08-01T10:18:27.282Z</lastmod>
     
   </url>
   
