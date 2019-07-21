@@ -2,30 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ichuna.com/home/index.html</loc>
+    <loc>http://ichuna.com/update/index.html</loc>
     
-    <lastmod>2019-03-29T14:25:07.237Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ichuna.com/overview/index.html</loc>
-    
-    <lastmod>2019-03-29T14:14:28.083Z</lastmod>
+    <lastmod>2019-07-15T09:29:38.010Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://ichuna.com/download/index.html</loc>
     
-    <lastmod>2019-03-29T13:25:43.733Z</lastmod>
+    <lastmod>2019-06-01T10:43:07.375Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ichuna.com/update/index.html</loc>
+    <loc>http://ichuna.com/home/index.html</loc>
     
-    <lastmod>2019-03-29T13:25:24.858Z</lastmod>
+    <lastmod>2019-06-01T10:41:32.659Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/demo/index.html</loc>
+    
+    <lastmod>2019-04-01T09:14:51.976Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/about/index.html</loc>
+    
+    <lastmod>2019-04-01T09:14:40.507Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/overview/index.html</loc>
+    
+    <lastmod>2019-04-01T09:13:56.706Z</lastmod>
     
   </url>
   
@@ -124,20 +138,6 @@
     <loc>http://ichuna.com/baidu-01/</loc>
     
     <lastmod>2018-12-25T03:01:35.566Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ichuna.com/demo/index.html</loc>
-    
-    <lastmod>2018-11-29T08:47:22.801Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ichuna.com/about/index.html</loc>
-    
-    <lastmod>2018-11-21T00:26:51.671Z</lastmod>
     
   </url>
   

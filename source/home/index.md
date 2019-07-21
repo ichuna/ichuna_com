@@ -1,6 +1,6 @@
 ---
-title: 出纳专家2018
-date: 2018-05-16 15:44:45
+title: 出纳专家2019
+date: 2019-03-30 15:44:45
 subtitle: 真账页出纳软件
 description: 出纳软件
 author: 王慧
@@ -23,7 +23,7 @@ timezone:
 * **真实用**，打印输出的帐页可直接存档
 
 <div style ="clear:both" align="center">
-        <a href="http://oss.myqzz.net/expert/cnzjhh_setup.exe" alt="" title="立即下载《出纳专家2018》" id="download">立即下载</a>
+        <a href="http://oss.myqzz.net/expert/cnzjhh_setup.exe" alt="" title="立即下载《出纳专家2019》" id="download">立即下载</a>
         <p>支持Windows 7及以上系统</p>
 </div>
 
