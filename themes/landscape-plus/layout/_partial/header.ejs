@@ -1,3 +1,9 @@
+<% if  (is_home())  { %> 
+    <link href="/themes/2/js-image-slider.css" rel="stylesheet" type="text/css" />
+    <script src="/themes/2/js-image-slider.js" type="text/javascript"></script>
+
+<% } %>
+
 <header id="header">
   <div id="banner"></div>
   <div id="header-outer" class="outer">
@@ -37,3 +43,47 @@
     </div>
   </div>
 </header>
+
+<% if  (is_home())  { %> 
+<div id="sliderFrame">
+        <div id="slider">
+            <a class="lazyImage" href="/img/slideshow/image-slider-1.jpg" title="漂亮——值得品鉴！">漂亮</a>
+            <a class="lazyImage" href="/img/slideshow/image-slider-2.jpg" title="安全——三重保障！">安全</a>
+            <a class="lazyImage" href="/img/slideshow/image-slider-3.jpg" title="省心——告别困扰！">省心</a>
+            <a class="lazyImage" href="/img/slideshow/image-slider-4.jpg" title="省时——快！">省时</a>
+            <a class="lazyImage" href="/img/slideshow/image-slider-5.jpg" title="省钱——值！">省钱</a>
+        </div>
+        <!--thumbnails-->
+        <div id="thumbs">
+            <div class="thumb">
+                <div class="frame"><img src="/img/slideshow/thumb4.jpg" /></div>
+                <div class="thumb-content"><p>漂亮</p>细节精美如艺术品，经得起您用放大镜品鉴！</div>
+                <div style="clear:both;"></div>
+            </div>
+            <div class="thumb">
+                <div class="frame"><img src="/img/slideshow/thumb2.jpg" /></div>
+                <div class="thumb-content"><p>安全</p>本地验证、时光机验证、手机验证，三重安全防护！</div>
+                <div style="clear:both;"></div>
+            </div>
+            <div class="thumb">
+                <div class="frame"><img src="/img/slideshow/thumb1.jpg" /></div>
+                <div class="thumb-content"><p>省心</p>“时光机”让您彻底告别数据丢、乱困扰！</div>
+                <div style="clear:both;"></div>
+            </div>
+            <div class="thumb">
+                <div class="frame"><img src="/img/slideshow/thumb2.jpg" /></div>
+                <div class="thumb-content"><p>省时</p>安装、使用、备份、数据恢复全过程只要一分钟！</div>
+                <div style="clear:both;"></div>
+            </div>
+            <div class="thumb">
+                <div class="frame"><img src="/img/slideshow/thumb3.jpg" /></div>
+                <div class="thumb-content"><p>省钱</p>一天一块钱，还送票据打印软件！</div>
+                <div style="clear:both;"></div>
+            </div>
+
+
+        </div>
+        <!--clear above float:left elements. It is required if above #slider is styled as float:left. -->
+        <div style="clear:both;height:0;"></div>
+    </div>
+<% } %>
