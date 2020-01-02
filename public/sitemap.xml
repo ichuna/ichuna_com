@@ -2,44 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ichuna.com/home/index.html</loc>
+    <loc>http://ichuna.com/update/index.html</loc>
     
-    <lastmod>2019-07-27T09:00:10.090Z</lastmod>
+    <lastmod>2020-01-02T09:09:23.358Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ichuna.com/update/index.html</loc>
+    <loc>http://ichuna.com/case/index.html</loc>
     
-    <lastmod>2019-07-25T22:52:17.939Z</lastmod>
+    <lastmod>2020-01-02T08:06:53.009Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/home/index.html</loc>
+    
+    <lastmod>2020-01-02T08:04:31.759Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://ichuna.com/download/index.html</loc>
     
-    <lastmod>2019-07-15T09:29:54.259Z</lastmod>
+    <lastmod>2020-01-02T06:58:33.539Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://ichuna.com/demo/index.html</loc>
     
-    <lastmod>2019-04-01T09:14:51.976Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ichuna.com/about/index.html</loc>
-    
-    <lastmod>2019-04-01T09:14:40.507Z</lastmod>
+    <lastmod>2020-01-02T06:57:42.809Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://ichuna.com/overview/index.html</loc>
     
-    <lastmod>2019-04-01T09:13:56.706Z</lastmod>
+    <lastmod>2020-01-02T06:55:43.552Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/about/index.html</loc>
+    
+    <lastmod>2020-01-02T03:54:41.785Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/support/index.html</loc>
+    
+    <lastmod>2020-01-02T03:54:39.326Z</lastmod>
     
   </url>
   
@@ -135,30 +149,9 @@
   </url>
   
   <url>
-    <loc>http://ichuna.com/baidu-01/</loc>
-    
-    <lastmod>2018-12-25T03:01:35.566Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://ichuna.com/wukong-story/</loc>
     
     <lastmod>2018-11-15T07:52:31.705Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ichuna.com/support/index.html</loc>
-    
-    <lastmod>2018-08-01T10:19:28.627Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ichuna.com/case/index.html</loc>
-    
-    <lastmod>2018-05-17T06:48:57.238Z</lastmod>
     
   </url>
   
